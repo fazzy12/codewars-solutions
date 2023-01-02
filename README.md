@@ -9,7 +9,7 @@ I hope that this repository can serve as a useful resource for others looking fo
 
 * Table of Contents
 * Introduction
-* Kata List
+* languages
 * Usage
 * Contributing
 * License
@@ -19,13 +19,14 @@ Codewars is a great platform for improving one's coding skills and problem-solvi
 
 I have found Codewars to be a valuable resource in my own coding journey, and I have enjoyed solving many of the kata on the website. This repository is a collection of my solutions to some of the kata that I have completed.
 
-# Kata List
+# languages
 Below is a list of the kata for which I have included solutions in this repository:
 
-* Kata Name 1
-* Kata Name 2
-* Kata Name 3
-This list will be updated as I add more solutions to the repository.
+* [javascript](https://github.com/fazzy12/codewars-solutions/tree/main/javascript)
+
+<!-- * Kata Name 2 -->
+<!-- * Kata Name 3 -->
+This list will be updated as I add more languages and solutions to the repository.
 
 ## Usage
 If you are looking for a solution to a specific kata on Codewars, you can browse the list of kata above to see if I have a solution available. Simply click on the link to the kata to view my solution.
