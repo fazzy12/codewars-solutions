@@ -21,7 +21,7 @@ Below is a list of the JavaScript kata for which I have included solutions in th
 * [Function 2 - squaring an argument](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Function-2-squaring_an_argument.js)
 * [Is it even? ](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Is_it_even%3F.js)
 * [Is this a triangle](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Is_this_a_triangle.js)
-
+* [Count by X](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Count_by_X.js)
 
 
 This list will be updated as I add more solutions to the directory.
