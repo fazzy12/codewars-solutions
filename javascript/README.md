@@ -23,6 +23,7 @@ Below is a list of the JavaScript kata for which I have included solutions in th
 * [Is this a triangle](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Is_this_a_triangle.js)
 * [Count by X](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Count_by_X.js)
 * [Return Negative](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/return_negative.js)
+* [You only need one - Beginner](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/you_only_need_one-beginner.js)
 
 
 This list will be updated as I add more solutions to the directory.
