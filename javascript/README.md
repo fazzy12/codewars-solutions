@@ -18,7 +18,7 @@ In this directory, you will find my solutions to various JavaScript kata that I 
 Below is a list of the JavaScript kata for which I have included solutions in this directory:
 
 ## kata Names
-* [Function 2 - squaring an argument](https://www.codewars.com/kata/523b623152af8a30c6000027/train/javascript)
+* [Function 2 - squaring an argument](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Function-2-squaring_an_argument.js)
 
 
 This list will be updated as I add more solutions to the directory.
