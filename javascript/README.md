@@ -19,6 +19,7 @@ Below is a list of the JavaScript kata for which I have included solutions in th
 
 ## kata Names
 * [Function 2 - squaring an argument](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Function-2-squaring_an_argument.js)
+* [Is_it_even?.js](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Is_it_even%3F.js)
 
 
 This list will be updated as I add more solutions to the directory.
