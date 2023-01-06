@@ -27,6 +27,7 @@ Below is a list of the JavaScript kata for which I have included solutions in th
 * [Regex validate PIN code](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/regex_validate_PIN_code.js)
 * [Powers of 2](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Powers_of_2.js)
 * [Fake Binary](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/fake_binary.js)
+* [Transportation on vacation](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/transportation_on_vacation.js)
 
 
 This list will be updated as I add more solutions to the directory.
