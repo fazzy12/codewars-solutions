@@ -25,6 +25,7 @@ Below is a list of the JavaScript kata for which I have included solutions in th
 * [Return Negative](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/return_negative.js)
 * [You only need one - Beginner](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/you_only_need_one-beginner.js)
 * [Regex validate PIN code](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/regex_validate_PIN_code.js)
+* [Powers of 2](https://github.com/fazzy12/codewars-solutions/blob/main/javascript/Powers_of_2.js)
 
 
 This list will be updated as I add more solutions to the directory.
