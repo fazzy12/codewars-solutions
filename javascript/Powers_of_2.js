@@ -26,3 +26,4 @@ function powersOfTwo(n){
     result.push(2 ** i)
   }
     return result
+}
