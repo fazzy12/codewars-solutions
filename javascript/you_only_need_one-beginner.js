@@ -10,7 +10,7 @@ Return true if the array contains the value, false if not.
 
 
 /*
- Here is a thought process for writing a function that takes an array and a value and returns true if the array contains the value, false if not:
+* Here is a thought process for writing a function that takes an array and a value and returns true if the array contains the value, false if not:
 
 * Define a function called check() that takes in two arguments, a and x.
 * Check if the a array includes the value of x using the includes() method.
