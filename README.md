@@ -1,7 +1,7 @@
-# Codewars Solutions
+# Codewar Solutions
 Welcome to my repository for solutions to coding challenges on Codewars!
 
-Codewars is a website that offers a range of coding challenges, called "kata," in various programming languages. These challenges range in difficulty from beginner to advanced.
+Codewar is a website that offers a range of coding challenges, called "kata," in various programming languages. These challenges range in difficulty from beginner to advanced.
 
 This repository contains my solutions to various kata that I have completed on the Codewars website. I have included a brief explanation of my thought process for each solution, as well as any relevant notes or optimizations.
 
@@ -15,7 +15,7 @@ I hope that this repository can serve as a useful resource for others looking fo
 * License
 
 ## Introduction
-Codewars is a great platform for improving one's coding skills and problem-solving abilities. It offers a wide range of challenges in various programming languages, allowing users to test their skills and learn new concepts.
+Codewar is a great platform for improving one's coding skills and problem-solving abilities. It offers a wide range of challenges in various programming languages, allowing users to test their skills and learn new concepts.
 
 I have found Codewars to be a valuable resource in my own coding journey, and I have enjoyed solving many of the kata on the website. This repository is a collection of my solutions to some of the kata that I have completed.
 
