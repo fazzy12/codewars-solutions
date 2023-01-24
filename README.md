@@ -7,7 +7,7 @@ This repository contains my solutions to various kata that I have completed on t
 
 I hope that this repository can serve as a useful resource for others looking for example solutions to these kata, as well as a portfolio of my coding skills.
 
-* Table of Contents
+## Table of Contents
 * Introduction
 * languages
 * Usage
